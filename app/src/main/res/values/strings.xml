@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CloudMoniter</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="circle_path">M160,12 h -12 a12,12 0,1 1,24 0a12,12 0,1 1,-24 0</string>
+</resources>

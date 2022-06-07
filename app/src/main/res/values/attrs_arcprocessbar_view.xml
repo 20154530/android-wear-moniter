@@ -1,0 +1,11 @@
+<resources>
+    <declare-styleable name="ArcProcessBar">
+        <attr name="percentage" format="float"/>
+        <attr name="lineColorBg" format="color"/>
+        <attr name="lineColorFg" format="color"/>
+        <attr name="lineThickness" format="integer"/>
+        <attr name="processThickness" format="integer"/>
+        <attr name="padding" format="integer"/>
+        <attr name="staticText" format="integer"/>
+    </declare-styleable>
+</resources>

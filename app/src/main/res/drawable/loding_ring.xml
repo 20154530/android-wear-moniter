@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:viewportHeight="320"
+        android:viewportWidth="320"
+        android:height="12dp"
+        android:width="12dp">
+    <group android:name="path1"
+           android:pivotX="160"
+           android:pivotY="160"
+           android:rotation="0">
+        <path android:name="v1"
+              android:strokeWidth="0"
+              android:fillColor="@color/loading_dot"
+              android:pathData="@string/circle_path"/>
+    </group>
+
+
+</vector>
